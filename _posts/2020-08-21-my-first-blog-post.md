@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my blog - LXC"
 date: 2020-08-21
 ---
